@@ -10,8 +10,8 @@ A HUD and minimap plug-in for **LET IT DIE**, built on [Mod Drive 9000](https://
 
 1. Install [Mod Drive 9000](https://github.com/kevinsnagy-del/ModDrive9000) first.
 2. Download `DeatHUD-<version>.zip` from [Releases](../../releases), close the game, and unzip it into the LET IT DIE folder.
-3. Run `ModDriveInstaller\Install.bat` again. It adds DeatHUD's textures to your game files, after backing them up.
+3. Open `ModDriveInstaller\ModDrive9000.exe` and choose **Apply mods to the game**. It adds DeatHUD's textures to your game files, after backing them up.
 
-**Updates:** run `ModDriveInstaller\Update.bat`. **Remove:** run `ModDriveInstaller\Remove.bat` and type `deathud`.
+**Updates and removal:** in `ModDriveInstaller\ModDrive9000.exe`, under **Mods**.
 
 LET IT DIE belongs to GungHo Online Entertainment / Supertrick Games. This is an unofficial fan project.
