@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.2
+- Fixed: the chest counter could start a floor with a chest already counted as opened (an unopened chest of the floor you just left).
+- Fixed a hitch every 3 seconds during a session's first 75 seconds (the atlas name search read every object's class name).
+- Removed a leftover diagnostic that wrote a large trace file each time the pause menu opened while Probes / logs was switched on (a 75 ms hitch).
+- Fixed: the big minimap never darkened unexplored areas (its fog was skipped as too large), so the run floor and run points floated above the map instead of sitting in its corners.
+
 ## 1.1.1
 - The run floor and run points sit fully inside the minimap's top corners.
 
