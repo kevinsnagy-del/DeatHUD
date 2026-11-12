@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.4
+- New option: Time left under the icons. Shows the seconds left under each status effect in the status-effect bar (off by default).
+- The run floor / wave and run points on the minimap now follow POSTMORTEM's own settings (Postmortem settings > Minimap run info: on / off, where, offset) from Postmortem 0.9.10-beta on. DeatHUD's two switches only apply with an older Postmortem.
+
 ## 1.1.3
 - A leftover diagnostic no longer writes thousands of lines to the log each session (it is behind the Probes / logs switch now).
 
