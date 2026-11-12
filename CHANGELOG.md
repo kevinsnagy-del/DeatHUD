@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.3
+- A leftover diagnostic no longer writes thousands of lines to the log each session (it is behind the Probes / logs switch now).
+
 ## 1.1.2
 - Fixed: the chest counter could start a floor with a chest already counted as opened (an unopened chest of the floor you just left).
 - Fixed a hitch every 3 seconds during a session's first 75 seconds (the atlas name search read every object's class name).
