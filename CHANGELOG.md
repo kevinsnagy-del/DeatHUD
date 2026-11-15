@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.6
+- New: **Edit the HUD live.** DeatHUD settings > Edit the HUD live closes the menu and lets you edit the HUD while you see it: L1 / R1 picks the element, L2 / R2 the setting, the D-pad changes it (on an offset it moves the element freely), Y resets the setting, B is done. Keyboard: Q / E, Z / C, arrow keys, R, Backspace. Every change is saved as you go.
+- In the live editor the message box shows a frame where messages end up, even when none are on screen (measured from the first messages you see).
+- Needs Mod Drive 9000 1.4.0 or newer.
+
 ## 1.1.5
 - Fixed: the time left under the status-effect icons stayed on screen during loading screens and while the HUD was hidden. It now fades with the HUD.
 
