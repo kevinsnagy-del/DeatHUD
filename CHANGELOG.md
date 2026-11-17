@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.8
+- For the LET IT DIE update of November 2026 (game 5.0.6).
+- With Probes / logs on, the log tells why a status effect shows no countdown (to fix the blessings that show none).
+
 ## 1.1.7
 - The live HUD editor's panel is drawn with the game's own Options rows, arrows and highlight frame.
 - The live editor's frame for a weapon hand now covers all three of its slots.
