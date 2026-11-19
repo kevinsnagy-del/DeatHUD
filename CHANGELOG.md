@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.9
+- Enemy counts skip a mid boss's hidden spare pawns and enemies that are already gone (the counter could stay above zero after the skeleton summoner died).
+- Enemies the game keeps parked out of sight no longer count as defeated.
+
 ## 1.1.8
 - For the LET IT DIE update of November 2026 (game 5.0.6).
 - With Probes / logs on, the log tells why a status effect shows no countdown (to fix the blessings that show none).
