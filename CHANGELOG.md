@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.10
+- Needs Mod Drive 9000 1.4.5.
+- **Fixed: the time left under blessings did not show** (it was drawn fully transparent).
+- With POSTMORTEM, event enemies, event bosses and the VIP are not counted as floor enemies.
+
 ## 1.1.9
 - Enemy counts skip a mid boss's hidden spare pawns and enemies that are already gone (the counter could stay above zero after the skeleton summoner died).
 - Enemies the game keeps parked out of sight no longer count as defeated.
