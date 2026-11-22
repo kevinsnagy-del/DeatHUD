@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.11
+- **Move the boss health bar:** a new HUD setting places the boss bar at the top of the screen where you want it, so the decal box no longer covers it.
+
 ## 1.1.10
 - Needs Mod Drive 9000 1.4.5.
 - **Fixed: the time left under blessings did not show** (it was drawn fully transparent).
