@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.12
+- Needs Mod Drive 9000 1.4.9.
+- **Rotate with the player:** choose whether the minimap turns with your fighter or with the camera.
+- **New: Map rotation smoothness** -- the minimap eases into a turn instead of snapping (default 50 %, 0 = instant).
+- **New: Disable joystick navigation in menus** -- only the D-pad moves the menus.
+- The HUD no longer reads the previous floor after a ride.
+
 ## 1.1.11
 - **Move the boss health bar:** a new HUD setting places the boss bar at the top of the screen where you want it, so the decal box no longer covers it.
 
