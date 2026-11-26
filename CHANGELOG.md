@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.13
+- Needs Mod Drive 9000 1.5.0.
+- **Co-op:** teammates are no longer counted as enemies in the floor's enemy count.
+
 ## 1.1.12
 - Needs Mod Drive 9000 1.4.9.
 - **Rotate with the player:** choose whether the minimap turns with your fighter or with the camera.
